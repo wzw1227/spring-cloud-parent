@@ -15,4 +15,4 @@ spring:
         git:
           uri: https://github.com/wzw1227/spring-cloud-parent.git    #git文件地址
           username: 1138114321@qq.com 		 #Github账号
-          password: Wzw951227						 #GitHub账号密码
+          password: Wzw951227				 #GitHub账号密码
