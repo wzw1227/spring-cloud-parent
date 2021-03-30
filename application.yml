@@ -4,6 +4,15 @@ spring:
       - dev
 ---
 server:
+  port: 3354
+spring:
+  application:
+    name: PROVIDER-SERVER
+  profiles: dev #开发环境
+---
+
+---
+server:
   port: 3355
 spring:
   application:
